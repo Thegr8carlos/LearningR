@@ -10,4 +10,6 @@
 - geom_boxplot(alpha = 0-1(to set the alpha chanel)) -> to create a box plot of the data 
 - theme(legen.position = "none") -> to set a theme for the plot 
 - geom_histogram(binWidth = 0-1(set the size of the chars)) -> to plot an histogram and setr the size of the charts
+- library(GGally) -> to add a ggplot extension
+- ggpairs(datset, mapping=ggplot2::aes(colour = categorical_var)) -> to generate the matrix of subplots to explore the pairs relations in the dataset and specifing how to see the diferent categorical vars in the plot 
 
