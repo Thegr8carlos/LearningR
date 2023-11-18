@@ -1,4 +1,6 @@
-library (datasets)# Adding the library  datasets
-data(iris) # loading the data (turning intp data)
-View(iris) # showing the data
-unique(iris$Species) # showing the unique values of the column name Species in the data iris
+#library (datasets)# Adding the library  data sets
+#data(iris) # loading the data (turning into data)
+#View(iris) # showing the data
+#unique(iris$Species) # showing the unique values of the column name Species in the data iris
+print("Hellow word, this is me testing the Rstudio")
+
